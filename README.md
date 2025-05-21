@@ -27,14 +27,12 @@ cd To-do-list
 Execute o programa:
 
 
-Copiar
-Editar
+
 python tarefas.py
 Siga o menu interativo no terminal:
 
 
-Copiar
-Editar
+
 📋 Menu de Tarefas
 1️⃣ Ver tarefas
 2️⃣ Adicionar nova tarefa
@@ -48,8 +46,7 @@ Nenhuma biblioteca externa necessária (usa apenas módulos nativos)
 
 💡 Estrutura do projeto
 
-Copiar
-Editar
+
 To-do-list/
 ├── tarefas.py       # Código principal
 ├── tarefas.json     # Arquivo gerado com suas tarefas
